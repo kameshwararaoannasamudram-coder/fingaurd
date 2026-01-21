@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::Athena::WorkGroup",
+    "ResourceIdentifier": {
+      "Name": "primary"
+    },
+    "ManagedByStack": false
+  }
+]

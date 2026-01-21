@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::NetworkInterface",
+    "ResourceIdentifier": {
+      "Id": "eni-0e229c8ad1514e4e8"
+    },
+    "ManagedByStack": false
+  }
+]

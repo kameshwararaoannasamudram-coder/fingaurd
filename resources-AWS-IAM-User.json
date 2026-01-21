@@ -1,0 +1,23 @@
+[
+  {
+    "ResourceType": "AWS::IAM::User",
+    "ResourceIdentifier": {
+      "UserName": "bedrock-api-user-kb"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::User",
+    "ResourceIdentifier": {
+      "UserName": "rds-s3-import-user"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::User",
+    "ResourceIdentifier": {
+      "UserName": "knowledge-base-admin"
+    },
+    "ManagedByStack": false
+  }
+]

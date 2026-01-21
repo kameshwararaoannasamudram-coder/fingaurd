@@ -1,0 +1,16 @@
+[
+  {
+    "ResourceType": "AWS::EC2::SecurityGroup",
+    "ResourceIdentifier": {
+      "Id": "sg-05dac0adbfa41011f"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::SecurityGroup",
+    "ResourceIdentifier": {
+      "Id": "sg-0620e02b7ff938b9c"
+    },
+    "ManagedByStack": false
+  }
+]

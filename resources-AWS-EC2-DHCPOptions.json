@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::DHCPOptions",
+    "ResourceIdentifier": {
+      "DhcpOptionsId": "dopt-06a6d1537154bca10"
+    },
+    "ManagedByStack": false
+  }
+]

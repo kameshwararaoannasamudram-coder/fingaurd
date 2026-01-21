@@ -1,0 +1,10 @@
+[
+  {
+    "ResourceType": "AWS::EC2::VPCDHCPOptionsAssociation",
+    "ResourceIdentifier": {
+      "DhcpOptionsId": "dopt-06a6d1537154bca10",
+      "VpcId": "vpc-02aabe01d3338301f"
+    },
+    "ManagedByStack": false
+  }
+]

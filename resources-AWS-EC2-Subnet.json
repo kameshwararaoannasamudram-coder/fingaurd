@@ -1,0 +1,23 @@
+[
+  {
+    "ResourceType": "AWS::EC2::Subnet",
+    "ResourceIdentifier": {
+      "SubnetId": "subnet-0df756e6a55e36698"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::Subnet",
+    "ResourceIdentifier": {
+      "SubnetId": "subnet-0b8393bfa53c377ff"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::Subnet",
+    "ResourceIdentifier": {
+      "SubnetId": "subnet-0dd7f4d71e0ff5fd9"
+    },
+    "ManagedByStack": false
+  }
+]

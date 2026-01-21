@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::RDS::OptionGroup",
+    "ResourceIdentifier": {
+      "OptionGroupName": "default:postgres-17"
+    },
+    "ManagedByStack": false
+  }
+]

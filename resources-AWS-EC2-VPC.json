@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::VPC",
+    "ResourceIdentifier": {
+      "VpcId": "vpc-02aabe01d3338301f"
+    },
+    "ManagedByStack": false
+  }
+]

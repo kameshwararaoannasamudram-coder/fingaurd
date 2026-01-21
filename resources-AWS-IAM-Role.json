@@ -1,0 +1,198 @@
+[
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForTrustedAdvisor"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "listChatSessions-role-at1onw1o"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_3c4kj"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForResourceExplorer"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "accessDynoDB"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForComputeOptimizer"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_jmlt2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "forgotPassword-role-3iah9ali"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "ec2Accesstopostgres"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForRDS"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "BedrockKnowledgeBaseAccess"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "getMessages-role-aw7afvr4"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "getKnowledge-role-vdf01l2p"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForSupport"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForCostOptimizationHub"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "manageresourcer"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForAWSServiceCatalogAppRegistry"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForAPIGateway"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "cognito-code-exchange-role-nch788sn"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "getSessions-role-y1eoawpc"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "rds-s3-import-role"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "SSM-EC2-Role"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "getMessages-role-aparrez5"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "httpfuntut-role-66g6w7kv"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_6biy9"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "AWSServiceRoleForAuroraDsql"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "confirmForgotPassword-role-e0x05la0"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::Role",
+    "ResourceIdentifier": {
+      "RoleName": "Windows-SSM-Role"
+    },
+    "ManagedByStack": false
+  }
+]

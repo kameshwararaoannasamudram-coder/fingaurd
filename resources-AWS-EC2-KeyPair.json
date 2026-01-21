@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::KeyPair",
+    "ResourceIdentifier": {
+      "KeyName": "launchec2"
+    },
+    "ManagedByStack": false
+  }
+]

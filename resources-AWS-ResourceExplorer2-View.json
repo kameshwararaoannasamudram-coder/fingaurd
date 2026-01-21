@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::ResourceExplorer2::View",
+    "ResourceIdentifier": {
+      "ViewArn": "arn:aws:resource-explorer-2:us-east-2:469695853333:view/us-east-2/bc4b9423-5c15-44f0-81e8-3b1499cb4228"
+    },
+    "ManagedByStack": false
+  }
+]

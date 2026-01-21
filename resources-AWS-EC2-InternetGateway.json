@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::InternetGateway",
+    "ResourceIdentifier": {
+      "InternetGatewayId": "igw-04602c63eff0401b3"
+    },
+    "ManagedByStack": false
+  }
+]

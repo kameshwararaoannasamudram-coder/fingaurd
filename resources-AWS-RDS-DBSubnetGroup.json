@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::RDS::DBSubnetGroup",
+    "ResourceIdentifier": {
+      "DBSubnetGroupName": "default-vpc-02aabe01d3338301f"
+    },
+    "ManagedByStack": false
+  }
+]

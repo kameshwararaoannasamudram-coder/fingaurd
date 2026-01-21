@@ -1,0 +1,30 @@
+[
+  {
+    "ResourceType": "AWS::ResourceExplorer2::Index",
+    "ResourceIdentifier": {
+      "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::ResourceExplorer2::Index",
+    "ResourceIdentifier": {
+      "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::ResourceExplorer2::Index",
+    "ResourceIdentifier": {
+      "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::ResourceExplorer2::Index",
+    "ResourceIdentifier": {
+      "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+    },
+    "ManagedByStack": false
+  }
+]

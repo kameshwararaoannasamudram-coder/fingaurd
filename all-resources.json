@@ -1,0 +1,846 @@
+[
+    {
+        "ResourceType": "AWS::Athena::WorkGroup",
+        "ResourceIdentifier": {
+            "Name": "primary"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "4cc15a8a-d715-48a4-82b8-cc0b614638fe"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "08627262-05a9-4f76-9ded-b50ca2e3a84f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "b2884449-e4de-46a7-ac36-70bc7f1ddd6d"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "658327ea-f89d-4fab-a63d-7e88639e58f6"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "2e54312d-136d-493c-8eb9-b001f22f67d2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "4135ea2d-6df8-44a3-9df3-4b5a84be39ad"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "a6bad946-36c3-4c33-aa98-362c74a7fb13"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "4c02794c-7c81-4ba1-8b5d-e05fb0f95ed8"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "766eb028-1aff-4eb2-a5a4-2674e1538f26"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "1c6db51a-a33f-469a-8245-dae26771f530"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "17322e93-4707-445a-93bc-6c8c16621822"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "83da9c7e-98b4-4e11-a168-04f0df8e2c65"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "4d1d2f1d-3a71-49ad-9e08-7ea5d843a556"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "1b1c9610-973a-4fb9-9932-a6c274840887"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::CachePolicy",
+        "ResourceIdentifier": {
+            "Id": "7e5fad67-ee98-4ad0-b05a-394999eefc1a"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "59781a5b-3903-41f3-afcb-af62929ccde1"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "33f36d7e-f396-46d9-90e0-52428a34d9dc"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "acba4595-bd28-49b8-b9fe-13317c0390fa"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "bf0718e1-ba1e-49d1-88b1-f726733018ae"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "216adef6-5c7f-47e4-b989-5492eafa07d3"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "88a5eaf4-2fd4-4709-b370-b4c650ea3fcf"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "b689b0a8-53d0-40ab-baf2-68738e2966ac"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+        "ResourceIdentifier": {
+            "Id": "775133bc-15f2-49f9-abea-afb2e0bf67d2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::DHCPOptions",
+        "ResourceIdentifier": {
+            "DhcpOptionsId": "dopt-06a6d1537154bca10"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Instance",
+        "ResourceIdentifier": {
+            "InstanceId": "i-0996e802636856c7b"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::InternetGateway",
+        "ResourceIdentifier": {
+            "InternetGatewayId": "igw-04602c63eff0401b3"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::KeyPair",
+        "ResourceIdentifier": {
+            "KeyName": "launchec2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::NetworkAcl",
+        "ResourceIdentifier": {
+            "Id": "acl-0920e541acf73af7e"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::NetworkInterface",
+        "ResourceIdentifier": {
+            "Id": "eni-0e229c8ad1514e4e8"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::NetworkInterfaceAttachment",
+        "ResourceIdentifier": {
+            "AttachmentId": "eni-attach-0a435e97c84605340"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Route",
+        "ResourceIdentifier": {
+            "CidrBlock": "172.31.0.0/16",
+            "RouteTableId": "rtb-00927b6365984f499"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Route",
+        "ResourceIdentifier": {
+            "CidrBlock": "0.0.0.0/0",
+            "RouteTableId": "rtb-00927b6365984f499"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::RouteTable",
+        "ResourceIdentifier": {
+            "RouteTableId": "rtb-00927b6365984f499"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::SecurityGroup",
+        "ResourceIdentifier": {
+            "Id": "sg-05dac0adbfa41011f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::SecurityGroup",
+        "ResourceIdentifier": {
+            "Id": "sg-0620e02b7ff938b9c"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Subnet",
+        "ResourceIdentifier": {
+            "SubnetId": "subnet-0df756e6a55e36698"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Subnet",
+        "ResourceIdentifier": {
+            "SubnetId": "subnet-0b8393bfa53c377ff"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Subnet",
+        "ResourceIdentifier": {
+            "SubnetId": "subnet-0dd7f4d71e0ff5fd9"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+        "ResourceIdentifier": {
+            "AssociationId": "aclassoc-032cf70301285771e"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+        "ResourceIdentifier": {
+            "AssociationId": "aclassoc-0bed2eefa9ba5a673"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+        "ResourceIdentifier": {
+            "AssociationId": "aclassoc-0d0e8cb8a96632677"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::Volume",
+        "ResourceIdentifier": {
+            "VolumeId": "vol-0ba52cb042078fd0f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::VolumeAttachment",
+        "ResourceIdentifier": {
+            "InstanceId": "i-0996e802636856c7b",
+            "VolumeId": "vol-0ba52cb042078fd0f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::VPC",
+        "ResourceIdentifier": {
+            "VpcId": "vpc-02aabe01d3338301f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::EC2::VPCDHCPOptionsAssociation",
+        "ResourceIdentifier": {
+            "DhcpOptionsId": "dopt-06a6d1537154bca10",
+            "VpcId": "vpc-02aabe01d3338301f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ElastiCache::User",
+        "ResourceIdentifier": {
+            "UserId": "default"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::Events::EventBus",
+        "ResourceIdentifier": {
+            "Name": "default"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::InstanceProfile",
+        "ResourceIdentifier": {
+            "InstanceProfileName": "SSM-EC2-Profile"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::InstanceProfile",
+        "ResourceIdentifier": {
+            "InstanceProfileName": "ec2Accesstopostgres"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_jmlt2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/BedrockKnowledgeBaseAccess"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-4265e6e4-9f15-487f-8b03-70f13787a70e"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/CognitoUserPoolClientAccess"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-b2bacc61-7cea-4363-aa37-0ee19a09f0d2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-052040c1-a12b-4fb2-b5c8-283223397122"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-e5d418d6-8c1c-4a10-903c-013223d406dd"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/rds-s3-import-policy"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/RDS-S3-Import-Policy-pgadmin"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-1069700a-1e25-4ad1-88fe-3144b2732cf2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-313f594e-8716-471c-9421-487fd55a3121"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-c02f1c0c-ceae-412e-97ea-f7280b42cd91"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_jmlt2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-5541588a-5654-454f-bf43-b6619f3bb791"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_6biy9"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_3c4kj"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-2d3e4e7b-564e-45b9-a25c-e6aeb2cfa682"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_3c4kj"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_jmlt2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_6biy9"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_3c4kj"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::ManagedPolicy",
+        "ResourceIdentifier": {
+            "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_6biy9"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForTrustedAdvisor"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "listChatSessions-role-at1onw1o"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_3c4kj"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForResourceExplorer"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "accessDynoDB"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForComputeOptimizer"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_jmlt2"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "forgotPassword-role-3iah9ali"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "ec2Accesstopostgres"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForRDS"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "BedrockKnowledgeBaseAccess"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "getMessages-role-aw7afvr4"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "getKnowledge-role-vdf01l2p"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForSupport"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForCostOptimizationHub"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "manageresourcer"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForAWSServiceCatalogAppRegistry"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForAPIGateway"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "cognito-code-exchange-role-nch788sn"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "getSessions-role-y1eoawpc"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "rds-s3-import-role"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "SSM-EC2-Role"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "getMessages-role-aparrez5"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "httpfuntut-role-66g6w7kv"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AmazonBedrockExecutionRoleForKnowledgeBase_6biy9"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "AWSServiceRoleForAuroraDsql"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "confirmForgotPassword-role-e0x05la0"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::Role",
+        "ResourceIdentifier": {
+            "RoleName": "Windows-SSM-Role"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::User",
+        "ResourceIdentifier": {
+            "UserName": "bedrock-api-user-kb"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::User",
+        "ResourceIdentifier": {
+            "UserName": "rds-s3-import-user"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::IAM::User",
+        "ResourceIdentifier": {
+            "UserName": "knowledge-base-admin"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::KMS::Key",
+        "ResourceIdentifier": {
+            "KeyId": "372419f4-dfd4-4102-b1d3-cb67fc3ad02a"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::KMS::Key",
+        "ResourceIdentifier": {
+            "KeyId": "356d51d8-d6c9-41f8-8cc8-7f862487735a"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::KMS::Key",
+        "ResourceIdentifier": {
+            "KeyId": "6d8fc142-4d83-4781-8251-aef617a93c51"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::RDS::DBSubnetGroup",
+        "ResourceIdentifier": {
+            "DBSubnetGroupName": "default-vpc-02aabe01d3338301f"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::RDS::OptionGroup",
+        "ResourceIdentifier": {
+            "OptionGroupName": "default:postgres-17"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceExplorer2::Index",
+        "ResourceIdentifier": {
+            "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceExplorer2::Index",
+        "ResourceIdentifier": {
+            "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceExplorer2::Index",
+        "ResourceIdentifier": {
+            "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceExplorer2::Index",
+        "ResourceIdentifier": {
+            "Arn": "arn:aws:resource-explorer-2:us-east-2:469695853333:index/c72c31d9-ef59-4653-ab42-e8cc9851946b"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceExplorer2::View",
+        "ResourceIdentifier": {
+            "ViewArn": "arn:aws:resource-explorer-2:us-east-2:469695853333:view/us-east-2/bc4b9423-5c15-44f0-81e8-3b1499cb4228"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceGroups::Group",
+        "ResourceIdentifier": {
+            "Name": "AWS_AppRegistry_AppTag_469695853333-finguard"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceGroups::Group",
+        "ResourceIdentifier": {
+            "Name": "AWS_AppRegistry_Application-finguard"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ResourceGroups::Group",
+        "ResourceIdentifier": {
+            "Name": "finguard/04a96ek75u124fbqlqcr40js29"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::Route53Resolver::ResolverRuleAssociation",
+        "ResourceIdentifier": {
+            "ResolverRuleAssociationId": "rslvr-autodefined-assoc-vpc-02aabe01d3338301f-internet-resolver"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::S3::Bucket",
+        "ResourceIdentifier": {
+            "BucketName": "my-knowledge-base-docs-finguard"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::ServiceCatalogAppRegistry::Application",
+        "ResourceIdentifier": {
+            "Id": "04a96ek75u124fbqlqcr40js29"
+        },
+        "ManagedByStack": false
+    },
+    {
+        "ResourceType": "AWS::XRay::Group",
+        "ResourceIdentifier": {
+            "GroupARN": "arn:aws:xray:us-east-2:469695853333:group/Default"
+        },
+        "ManagedByStack": false
+    }
+]
