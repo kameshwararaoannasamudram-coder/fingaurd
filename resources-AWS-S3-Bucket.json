@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::S3::Bucket",
+    "ResourceIdentifier": {
+      "BucketName": "my-knowledge-base-docs-finguard"
+    },
+    "ManagedByStack": false
+  }
+]

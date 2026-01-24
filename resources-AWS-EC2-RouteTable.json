@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::RouteTable",
+    "ResourceIdentifier": {
+      "RouteTableId": "rtb-00927b6365984f499"
+    },
+    "ManagedByStack": false
+  }
+]

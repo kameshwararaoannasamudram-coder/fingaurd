@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::Instance",
+    "ResourceIdentifier": {
+      "InstanceId": "i-0996e802636856c7b"
+    },
+    "ManagedByStack": false
+  }
+]

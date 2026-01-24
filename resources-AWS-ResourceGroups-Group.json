@@ -1,0 +1,23 @@
+[
+  {
+    "ResourceType": "AWS::ResourceGroups::Group",
+    "ResourceIdentifier": {
+      "Name": "AWS_AppRegistry_AppTag_469695853333-finguard"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::ResourceGroups::Group",
+    "ResourceIdentifier": {
+      "Name": "AWS_AppRegistry_Application-finguard"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::ResourceGroups::Group",
+    "ResourceIdentifier": {
+      "Name": "finguard/04a96ek75u124fbqlqcr40js29"
+    },
+    "ManagedByStack": false
+  }
+]

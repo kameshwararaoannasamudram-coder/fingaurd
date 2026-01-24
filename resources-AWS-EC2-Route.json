@@ -1,0 +1,18 @@
+[
+  {
+    "ResourceType": "AWS::EC2::Route",
+    "ResourceIdentifier": {
+      "CidrBlock": "172.31.0.0/16",
+      "RouteTableId": "rtb-00927b6365984f499"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::Route",
+    "ResourceIdentifier": {
+      "CidrBlock": "0.0.0.0/0",
+      "RouteTableId": "rtb-00927b6365984f499"
+    },
+    "ManagedByStack": false
+  }
+]

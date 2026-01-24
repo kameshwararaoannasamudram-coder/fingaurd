@@ -1,0 +1,107 @@
+[
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "4cc15a8a-d715-48a4-82b8-cc0b614638fe"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "08627262-05a9-4f76-9ded-b50ca2e3a84f"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "b2884449-e4de-46a7-ac36-70bc7f1ddd6d"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "658327ea-f89d-4fab-a63d-7e88639e58f6"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "2e54312d-136d-493c-8eb9-b001f22f67d2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "4135ea2d-6df8-44a3-9df3-4b5a84be39ad"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "a6bad946-36c3-4c33-aa98-362c74a7fb13"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "4c02794c-7c81-4ba1-8b5d-e05fb0f95ed8"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "766eb028-1aff-4eb2-a5a4-2674e1538f26"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "1c6db51a-a33f-469a-8245-dae26771f530"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "17322e93-4707-445a-93bc-6c8c16621822"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "83da9c7e-98b4-4e11-a168-04f0df8e2c65"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "4d1d2f1d-3a71-49ad-9e08-7ea5d843a556"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "1b1c9610-973a-4fb9-9932-a6c274840887"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CachePolicy",
+    "ResourceIdentifier": {
+      "Id": "7e5fad67-ee98-4ad0-b05a-394999eefc1a"
+    },
+    "ManagedByStack": false
+  }
+]

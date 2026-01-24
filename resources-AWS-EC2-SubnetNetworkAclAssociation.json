@@ -1,0 +1,23 @@
+[
+  {
+    "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+    "ResourceIdentifier": {
+      "AssociationId": "aclassoc-032cf70301285771e"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+    "ResourceIdentifier": {
+      "AssociationId": "aclassoc-0bed2eefa9ba5a673"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::EC2::SubnetNetworkAclAssociation",
+    "ResourceIdentifier": {
+      "AssociationId": "aclassoc-0d0e8cb8a96632677"
+    },
+    "ManagedByStack": false
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::Events::EventBus",
+    "ResourceIdentifier": {
+      "Name": "default"
+    },
+    "ManagedByStack": false
+  }
+]

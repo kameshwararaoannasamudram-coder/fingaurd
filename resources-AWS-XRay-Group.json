@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::XRay::Group",
+    "ResourceIdentifier": {
+      "GroupARN": "arn:aws:xray:us-east-2:469695853333:group/Default"
+    },
+    "ManagedByStack": false
+  }
+]

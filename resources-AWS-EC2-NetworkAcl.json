@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::NetworkAcl",
+    "ResourceIdentifier": {
+      "Id": "acl-0920e541acf73af7e"
+    },
+    "ManagedByStack": false
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_jmlt2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/BedrockKnowledgeBaseAccess"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-4265e6e4-9f15-487f-8b03-70f13787a70e"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/CognitoUserPoolClientAccess"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-b2bacc61-7cea-4363-aa37-0ee19a09f0d2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-052040c1-a12b-4fb2-b5c8-283223397122"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-e5d418d6-8c1c-4a10-903c-013223d406dd"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/rds-s3-import-policy"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/RDS-S3-Import-Policy-pgadmin"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-1069700a-1e25-4ad1-88fe-3144b2732cf2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-313f594e-8716-471c-9421-487fd55a3121"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-c02f1c0c-ceae-412e-97ea-f7280b42cd91"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_jmlt2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-5541588a-5654-454f-bf43-b6619f3bb791"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_6biy9"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_3c4kj"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AWSLambdaBasicExecutionRole-2d3e4e7b-564e-45b9-a25c-e6aeb2cfa682"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockFoundationModelPolicyForKnowledgeBase_3c4kj"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_jmlt2"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3PolicyForKnowledgeBase_6biy9"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_3c4kj"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::ManagedPolicy",
+    "ResourceIdentifier": {
+      "PolicyArn": "arn:aws:iam::469695853333:policy/service-role/AmazonBedrockS3VectorStorePolicyForKnowledgeBase_6biy9"
+    },
+    "ManagedByStack": false
+  }
+]

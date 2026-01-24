@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::EC2::NetworkInterfaceAttachment",
+    "ResourceIdentifier": {
+      "AttachmentId": "eni-attach-0a435e97c84605340"
+    },
+    "ManagedByStack": false
+  }
+]

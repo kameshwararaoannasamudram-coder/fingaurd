@@ -1,0 +1,23 @@
+[
+  {
+    "ResourceType": "AWS::KMS::Key",
+    "ResourceIdentifier": {
+      "KeyId": "372419f4-dfd4-4102-b1d3-cb67fc3ad02a"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::KMS::Key",
+    "ResourceIdentifier": {
+      "KeyId": "356d51d8-d6c9-41f8-8cc8-7f862487735a"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::KMS::Key",
+    "ResourceIdentifier": {
+      "KeyId": "6d8fc142-4d83-4781-8251-aef617a93c51"
+    },
+    "ManagedByStack": false
+  }
+]

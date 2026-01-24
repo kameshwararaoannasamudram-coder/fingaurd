@@ -1,0 +1,16 @@
+[
+  {
+    "ResourceType": "AWS::IAM::InstanceProfile",
+    "ResourceIdentifier": {
+      "InstanceProfileName": "SSM-EC2-Profile"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::IAM::InstanceProfile",
+    "ResourceIdentifier": {
+      "InstanceProfileName": "ec2Accesstopostgres"
+    },
+    "ManagedByStack": false
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "ResourceType": "AWS::EC2::VolumeAttachment",
+    "ResourceIdentifier": {
+      "InstanceId": "i-0996e802636856c7b",
+      "VolumeId": "vol-0ba52cb042078fd0f"
+    },
+    "ManagedByStack": false
+  }
+]

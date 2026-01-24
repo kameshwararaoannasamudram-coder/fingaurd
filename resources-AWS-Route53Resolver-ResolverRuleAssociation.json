@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::Route53Resolver::ResolverRuleAssociation",
+    "ResourceIdentifier": {
+      "ResolverRuleAssociationId": "rslvr-autodefined-assoc-vpc-02aabe01d3338301f-internet-resolver"
+    },
+    "ManagedByStack": false
+  }
+]

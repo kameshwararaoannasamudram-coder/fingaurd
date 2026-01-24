@@ -1,0 +1,58 @@
+[
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "59781a5b-3903-41f3-afcb-af62929ccde1"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "33f36d7e-f396-46d9-90e0-52428a34d9dc"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "acba4595-bd28-49b8-b9fe-13317c0390fa"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "bf0718e1-ba1e-49d1-88b1-f726733018ae"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "216adef6-5c7f-47e4-b989-5492eafa07d3"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "88a5eaf4-2fd4-4709-b370-b4c650ea3fcf"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "b689b0a8-53d0-40ab-baf2-68738e2966ac"
+    },
+    "ManagedByStack": false
+  },
+  {
+    "ResourceType": "AWS::CloudFront::OriginRequestPolicy",
+    "ResourceIdentifier": {
+      "Id": "775133bc-15f2-49f9-abea-afb2e0bf67d2"
+    },
+    "ManagedByStack": false
+  }
+]

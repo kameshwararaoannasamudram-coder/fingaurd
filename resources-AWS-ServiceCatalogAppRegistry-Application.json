@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::ServiceCatalogAppRegistry::Application",
+    "ResourceIdentifier": {
+      "Id": "04a96ek75u124fbqlqcr40js29"
+    },
+    "ManagedByStack": false
+  }
+]

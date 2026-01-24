@@ -1,0 +1,9 @@
+[
+  {
+    "ResourceType": "AWS::ElastiCache::User",
+    "ResourceIdentifier": {
+      "UserId": "default"
+    },
+    "ManagedByStack": false
+  }
+]
