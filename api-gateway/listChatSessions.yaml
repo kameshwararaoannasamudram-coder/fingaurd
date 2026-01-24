@@ -1,0 +1,85 @@
+openapi: "3.0.1"
+info:
+  title: "listChatSessions"
+  version: "2026-01-24 20:29:44UTC"
+servers:
+- url: "https://bitwvihdc8.execute-api.us-east-1.amazonaws.com/{basePath}"
+  variables:
+    basePath:
+      default: ""
+paths:
+  /messages:
+    get:
+      responses:
+        default:
+          description: "Default response for GET /messages"
+      security:
+      - cognitoAuth: []
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: "aws_proxy"
+        httpMethod: "POST"
+        uri: "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:469695853333:function:getMessages/invocations"
+        connectionType: "INTERNET"
+  /sessions:
+    get:
+      responses:
+        default:
+          description: "Default response for GET /sessions"
+      security:
+      - cognitoAuth: []
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: "aws_proxy"
+        httpMethod: "POST"
+        uri: "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:469695853333:function:listChatSessions/invocations"
+        connectionType: "INTERNET"
+  /chat:
+    post:
+      responses:
+        default:
+          description: "Default response for POST /chat"
+      security:
+      - cognitoAuth: []
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: "aws_proxy"
+        httpMethod: "POST"
+        uri: "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:469695853333:function:getKnowledge/invocations"
+        connectionType: "INTERNET"
+  /login:
+    post:
+      responses:
+        default:
+          description: "Default response for POST /login"
+      x-amazon-apigateway-integration:
+        payloadFormatVersion: "2.0"
+        type: "aws_proxy"
+        httpMethod: "POST"
+        uri: "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:469695853333:function:cognito-code-exchange/invocations"
+        connectionType: "INTERNET"
+components:
+  securitySchemes:
+    cognitoAuth:
+      type: "oauth2"
+      flows: {}
+      x-amazon-apigateway-authorizer:
+        identitySource: "$request.header.Authorization"
+        jwtConfiguration:
+          audience:
+          - "79b4srl7ki07bvdvdnms12ebl6"
+          issuer: "https://cognito-idp.us-east-1.amazonaws.com/us-east-1_izlMRmzQz"
+        type: "jwt"
+x-amazon-apigateway-cors:
+  allowMethods:
+  - "GET"
+  - "OPTIONS"
+  - "POST"
+  allowHeaders:
+  - "authorization"
+  - "content-type"
+  maxAge: 3600
+  allowCredentials: false
+  allowOrigins:
+  - "*"
+x-amazon-apigateway-importexport-version: "1.0"
