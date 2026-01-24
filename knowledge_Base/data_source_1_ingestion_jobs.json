@@ -1,0 +1,55 @@
+{
+    "ingestionJobSummaries": [
+        {
+            "knowledgeBaseId": "OFCAXUIKNE",
+            "dataSourceId": "ZWF7BOCY2U",
+            "ingestionJobId": "IQFVI2JYUK",
+            "status": "COMPLETE",
+            "startedAt": "2025-12-16T13:58:51.941835+00:00",
+            "updatedAt": "2025-12-16T13:58:56.002891+00:00",
+            "statistics": {
+                "numberOfDocumentsScanned": 8,
+                "numberOfMetadataDocumentsScanned": 0,
+                "numberOfNewDocumentsIndexed": 0,
+                "numberOfModifiedDocumentsIndexed": 1,
+                "numberOfMetadataDocumentsModified": 0,
+                "numberOfDocumentsDeleted": 0,
+                "numberOfDocumentsFailed": 0
+            }
+        },
+        {
+            "knowledgeBaseId": "OFCAXUIKNE",
+            "dataSourceId": "ZWF7BOCY2U",
+            "ingestionJobId": "SPBPWJ09ZH",
+            "status": "COMPLETE",
+            "startedAt": "2025-12-16T13:47:11.812257+00:00",
+            "updatedAt": "2025-12-16T13:47:15.938135+00:00",
+            "statistics": {
+                "numberOfDocumentsScanned": 2,
+                "numberOfMetadataDocumentsScanned": 0,
+                "numberOfNewDocumentsIndexed": 2,
+                "numberOfModifiedDocumentsIndexed": 0,
+                "numberOfMetadataDocumentsModified": 0,
+                "numberOfDocumentsDeleted": 0,
+                "numberOfDocumentsFailed": 0
+            }
+        },
+        {
+            "knowledgeBaseId": "OFCAXUIKNE",
+            "dataSourceId": "ZWF7BOCY2U",
+            "ingestionJobId": "TQOD2XJPNQ",
+            "status": "COMPLETE",
+            "startedAt": "2025-12-16T13:51:25.379270+00:00",
+            "updatedAt": "2025-12-16T13:51:36.984153+00:00",
+            "statistics": {
+                "numberOfDocumentsScanned": 8,
+                "numberOfMetadataDocumentsScanned": 0,
+                "numberOfNewDocumentsIndexed": 8,
+                "numberOfModifiedDocumentsIndexed": 0,
+                "numberOfMetadataDocumentsModified": 0,
+                "numberOfDocumentsDeleted": 2,
+                "numberOfDocumentsFailed": 0
+            }
+        }
+    ]
+}

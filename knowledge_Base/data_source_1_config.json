@@ -1,0 +1,21 @@
+{
+    "dataSource": {
+        "knowledgeBaseId": "OFCAXUIKNE",
+        "dataSourceId": "ZWF7BOCY2U",
+        "name": "knowledge-base-quick-start-qeqzu-data-source",
+        "status": "AVAILABLE",
+        "dataSourceConfiguration": {
+            "type": "S3",
+            "s3Configuration": {
+                "bucketArn": "arn:aws:s3:::my-knowledge-base-docs-finguard",
+                "inclusionPrefixes": [
+                    "knowledge-base/"
+                ]
+            }
+        },
+        "vectorIngestionConfiguration": {},
+        "dataDeletionPolicy": "DELETE",
+        "createdAt": "2025-12-16T13:46:59.596880+00:00",
+        "updatedAt": "2025-12-16T13:51:19.553002+00:00"
+    }
+}

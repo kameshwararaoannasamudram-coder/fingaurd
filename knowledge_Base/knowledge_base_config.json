@@ -1,0 +1,29 @@
+{
+    "knowledgeBase": {
+        "knowledgeBaseId": "OFCAXUIKNE",
+        "name": "knowledge-base-quick-start-3c4kj",
+        "knowledgeBaseArn": "arn:aws:bedrock:us-east-1:469695853333:knowledge-base/OFCAXUIKNE",
+        "roleArn": "arn:aws:iam::469695853333:role/service-role/AmazonBedrockExecutionRoleForKnowledgeBase_3c4kj",
+        "knowledgeBaseConfiguration": {
+            "type": "VECTOR",
+            "vectorKnowledgeBaseConfiguration": {
+                "embeddingModelArn": "arn:aws:bedrock:us-east-1::foundation-model/amazon.titan-embed-text-v2:0",
+                "embeddingModelConfiguration": {
+                    "bedrockEmbeddingModelConfiguration": {
+                        "dimensions": 1024,
+                        "embeddingDataType": "FLOAT32"
+                    }
+                }
+            }
+        },
+        "storageConfiguration": {
+            "type": "S3_VECTORS",
+            "s3VectorsConfiguration": {
+                "indexArn": "arn:aws:s3vectors:us-east-1:469695853333:bucket/bedrock-knowledge-base-fk4r2f/index/bedrock-knowledge-base-default-index"
+            }
+        },
+        "status": "ACTIVE",
+        "createdAt": "2025-12-16T13:46:58.836298+00:00",
+        "updatedAt": "2025-12-16T13:46:58.836298+00:00"
+    }
+}
